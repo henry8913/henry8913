@@ -63,18 +63,22 @@ Ogni progetto per me è un'opportunità per crescere e fare la differenza. Se vu
 
 <h3>🔥 Attività Generale</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henry8913&show_icons=true&theme=radical" alt="Statistiche Generali di GitHub di Henry" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=henry8913&show_icons=true&bg_color=232323&title_color=FF7F50&text_color=E0E0E0&icon_color=FFA500" alt="Statistiche Generali di GitHub di Henry" width="100%" />
 </p>
 
 <h3>💻 Streaks</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=henry8913&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streaks di Henry" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=henry8913&hide_border=true&background=282828&stroke=FF4500&ring=FF6347&fire=FF4500&currStreakLabel=FFA07A&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=D3D3D3&dates=A9A9A9" alt="Streaks di Henry" width="100%" />
 </p>
+
 
 <h3>📚 Linguaggi Più Usati</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry8913&layout=compact&theme=radical" alt="Linguaggi Più Usati" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry8913&layout=compact&bg_color=1F1F1F&title_color=FF8C00&text_color=FFFFFF&icon_color=FFD700" alt="Linguaggi Più Usati" width="100%" />
 </p>
+
+
+
 
 ---
 
