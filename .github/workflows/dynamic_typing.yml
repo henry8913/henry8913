@@ -19,7 +19,12 @@ jobs:
           curl "https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=18&color=4C8EDA&center=true&vCenter=true&width=800&height=60&lines=Ogni+riga+di+codice+%C3%A8+un+passo+verso+un+futuro+pi%C3%B9+innovativo+e+accessibile.;Migliorando+la+vita+delle+persone.;Il+mio+momento+creativo+migliore?+Programmare+di+notte+con+una+tazza+di+caff%C3%A8+%E2%98%95." -o typing.svg
 
       - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add typing.svg
+        git commit -m "Update typing.svg"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
