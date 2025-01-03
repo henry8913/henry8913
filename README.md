@@ -8,16 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=18&color=FFA500&center=true&vCenter=true&width=1200&height=50&lines=Il+mio+momento+creativo+migliore%3F+Programmare+di+notte+con+una+tazza+di+caff%C3%A8+%E2%98%95.&repeat=false" alt="Il mio momento creativo migliore? Programmare di notte con una tazza di caffè ☕">
 </p>
 
-
-
-
-
-
-
-
-
-
-
 <p align="center">
     <img src="https://github.com/henry8913/henry8913/blob/main/img/cover2.png" alt="Cover" width="100%" />
 </p>
