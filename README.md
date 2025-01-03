@@ -1,7 +1,20 @@
 <h1 align="center">Benvenuto! 👋 Sono Henry, un creativo del mondo digitale 💻</h1>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/henry8913/henry8913/main/typing.svg" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=18&color=FFA500&center=true&vCenter=true&width=1400&height=50&lines=Ogni+riga+di+codice+%F0%9F%93%9A+%C3%A8+un+passo+verso+un+futuro+pi%C3%B9+innovativo+e+accessibile%2C+migliorando+la+vita+delle+persone+%F0%9F%8C%9F.&repeat=false" alt="Ogni riga di codice è un passo verso un futuro più innovativo e accessibile, migliorando la vita delle persone 🌟">
+    <br><br>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=18&color=32CD32&center=true&vCenter=true&width=1200&height=50&lines=Il+mio+momento+creativo+migliore%3F+Programmare+di+notte+con+una+tazza+di+caff%C3%A8+%E2%98%95.&repeat=false" alt="Il mio momento creativo migliore? Programmare di notte con una tazza di caffè ☕">
 </p>
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
     <img src="https://github.com/henry8913/henry8913/blob/main/img/cover2.png" alt="Cover" width="100%" />
 </p>
