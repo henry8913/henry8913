@@ -1,0 +1,25 @@
+name: Dynamic Typing SVG
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Esegue ogni 6 ore
+  workflow_dispatch: # Permette l'esecuzione manuale
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Typing SVG
+        run: |
+          echo "Rendering typing effect..."
+          curl "https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=18&color=4C8EDA&center=true&vCenter=true&width=800&height=60&lines=Ogni+riga+di+codice+%C3%A8+un+passo+verso+un+futuro+pi%C3%B9+innovativo+e+accessibile.;Migliorando+la+vita+delle+persone.;Il+mio+momento+creativo+migliore?+Programmare+di+notte+con+una+tazza+di+caff%C3%A8+%E2%98%95." -o typing.svg
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
