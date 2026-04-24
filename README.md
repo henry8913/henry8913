@@ -19,13 +19,14 @@
 ## 👨‍💻 Chi Sono
 Sono un **Full-Stack Developer** 🚀 con una profonda passione per le tecnologie emergenti. Mi piace trasformare idee in soluzioni digitali che combinano design intuitivi 🎨 e funzionalità tecniche scalabili 🛠️.
 
-> Ogni progetto per me è un'opportunità per crescere e fare la differenza. [Scopri di più »](https://henrygdeveloper.com/)
+> Ogni progetto per me è un'opportunità per crescere e fare la differenza. [Scopri di più »](https://henrydev.it/)
 
 ## 🔧 Stack Tecnologico
 
 <div align="start">
 
 ### 💻 Linguaggi & Tecnologie Core
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
@@ -33,35 +34,40 @@ Sono un **Full-Stack Developer** 🚀 con una profonda passione per le tecnologi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
 
-### 🛢️ Database & Backend Logic
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/>
+### ⚙️ Backend
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
 
-### 🛠️ Framework, UI & Strumenti
+### 🛢️ Database
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+
+### 🛠️ Frontend / UI
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
 
-### 🚀 Deployment & Workflow
+### 🚀 Tooling & Workflow
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 
 </div>
 
-</div>
-
 ## 🏆 Progetti e Risultati
-Ho avuto l'opportunità di lavorare su progetti che mi hanno permesso di crescere professionalmente e applicare le mie competenze in situazioni concrete. Se vuoi saperne di più, visita la sezione dedicata ai progetti sul mio [Sito Web](https://henrygdeveloper.com/).
+Ho avuto l'opportunità di lavorare su progetti che mi hanno permesso di crescere professionalmente e applicare le mie competenze in situazioni concrete. Se vuoi saperne di più, visita la sezione dedicata ai progetti sul mio [Sito Web](https://henrydev.it/).
 
 ## 🎯 Focus Attuale
 - 🌱 **Apprendimento:** Strumenti di automazione per sviluppatori
@@ -69,7 +75,7 @@ Ho avuto l'opportunità di lavorare su progetti che mi hanno permesso di crescer
 - 🌐 **Esplorazione:** Cloud computing e scalabilità
 
 ## 🔧 Certificazioni
-Le mie certificazioni dimostrano il mio impegno verso l'apprendimento continuo e la padronanza delle tecnologie all'avanguardia. Scopri i dettagli nella sezione certificazioni del mio [Sito Web](https://henrygdeveloper.com/).
+Le mie certificazioni dimostrano il mio impegno verso l'apprendimento continuo e la padronanza delle tecnologie all'avanguardia. Scopri i dettagli nella sezione certificazioni del mio [Sito Web](https://henrydev.it/).
 
 ## 📊 Statistiche GitHub
 
@@ -84,7 +90,7 @@ Le mie certificazioni dimostrano il mio impegno verso l'apprendimento continuo e
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://henrygdeveloper.com/)
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://henrydev.it/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henry-k-grecchi-555454254)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henry8913@hotmail.it)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=393926936916&text&type=phone_number&app_absent=0)
@@ -113,4 +119,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
