@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=33&color=FF3631&center=true&vCenter=true&width=1200&height=60&lines=Benvenuto!+%F0%9F%91%8B+Sono+Henry%2C+un+creativo+del+mondo+digitale+%F0%9F%92%BB.&repeat=false" alt="Benvenuto! 👋 Sono Henry, un creativo del mondo digitale 💻">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=33&color=FF3631&center=true&vCenter=true&width=1200&height=60&lines=Benvenuto!+%F0%9F%91%8B+Sono+Henry%2C+Full-Stack+Developer+%F0%9F%92%BB.&repeat=false" alt="Benvenuto! 👋 Sono Henry, Full-Stack Developer 💻">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=19&color=000000&center=true&vCenter=true&width=1400&height=50&lines=Ogni+riga+di+codice+%F0%9F%93%9A+%C3%A8+un+passo+verso+un+futuro+pi%C3%B9+innovativo+e+accessibile%2C+migliorando+la+vita+delle+persone+%F0%9F%8C%9F.&repeat=false" alt="Ogni riga di codice è un passo verso un futuro più innovativo e accessibile, migliorando la vita delle persone 🌟">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=19&color=808080&center=true&vCenter=true&width=1400&height=50&lines=Ogni+riga+di+codice+%F0%9F%93%9A+%C3%A8+un+passo+verso+un+futuro+pi%C3%B9+innovativo+e+accessibile%2C+migliorando+la+vita+delle+persone+%F0%9F%8C%9F.&repeat=false" alt="Ogni riga di codice è un passo verso un futuro più innovativo e accessibile, migliorando la vita delle persone 🌟">
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henry8913/henry8913/output/pacman-contribution-graph-dark.svg">
@@ -21,18 +21,19 @@ Sono un **Full-Stack Developer** 🚀 con una profonda passione per le tecnologi
 
 > Ogni progetto per me è un'opportunità per crescere e fare la differenza. [Scopri di più »](https://henrydev.it/)
 
+Le repository sono ordinate in **10 liste tematiche** per trovare subito quello che cerchi: [sfoglia le liste »](https://github.com/henry8913?tab=stars). I progetti in evidenza sono quelli fissati (pinned) sul profilo.
+
 ## 🔧 Stack Tecnologico
 
-<div align="start">
+<div align="left">
 
 ### 💻 Linguaggi & Tecnologie Core
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
 
 ### ⚙️ Backend
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
@@ -55,6 +56,7 @@ Sono un **Full-Stack Developer** 🚀 con una profonda passione per le tecnologi
 ### 🚀 Tooling & Workflow
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
@@ -66,24 +68,21 @@ Sono un **Full-Stack Developer** 🚀 con una profonda passione per le tecnologi
 
 </div>
 
-## 🏆 Progetti e Risultati
-Ho avuto l'opportunità di lavorare su progetti che mi hanno permesso di crescere professionalmente e applicare le mie competenze in situazioni concrete. Se vuoi saperne di più, visita la sezione dedicata ai progetti sul mio [Sito Web](https://henrydev.it/).
-
 ## 🎯 Focus Attuale
 - 🌱 **Apprendimento:** Strumenti di automazione per sviluppatori
 - 🔭 **Sviluppo:** Funzionalità per migliorare la produttività
 - 🌐 **Esplorazione:** Cloud computing e scalabilità
 
-## 🔧 Certificazioni
-Le mie certificazioni dimostrano il mio impegno verso l'apprendimento continuo e la padronanza delle tecnologie all'avanguardia. Scopri i dettagli nella sezione certificazioni del mio [Sito Web](https://henrydev.it/).
+## 🎓 Certificazioni
+Apprendimento continuo, per scelta. Le certificazioni aggiornate sono nella sezione dedicata del mio [sito](https://henrydev.it/).
 
 ## 📊 Statistiche GitHub
 
 <h3>🔥 Attività Generale & 📚 Linguaggi Più Usati</h3>
 
-<div align="center" cass="row">
-  <img src="https://github-readme-stats.vercel.app/api?username=henry8913&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henry8913&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="200" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=henry8913&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=it&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henry8913&locale=it&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ## 📫 Contattami
@@ -97,25 +96,7 @@ Le mie certificazioni dimostrano il mio impegno verso l'apprendimento continuo e
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henry8913/henry8913/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henry8913/henry8913/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/henry8913/henry8913/output/pacman-contribution-graph.svg">
-</picture>
-
-<!--
-## Hi there 👋
-
-**henry8913/henry8913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <br>
+  <sub><i>"A volte bisogna correre prima ancora di imparare a camminare."</i> — Tony Stark</sub>
+</div>
